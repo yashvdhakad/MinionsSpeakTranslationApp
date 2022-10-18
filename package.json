@@ -4,7 +4,9 @@
   "description": "Translate your language into Minions language within a sec.",
   "main": "app.js",
   "scripts": {
-    "start": "vite"
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "repository": {
     "type": "git",
